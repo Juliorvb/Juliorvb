@@ -1,5 +1,21 @@
 ## Olá, eu sou o Júlio 👋
 
+🎓 Estudante de Ciência da Computação (Newton Paiva)
+💼 Buscando estágio em TI / Programação
+
+🛠️ Tecnologias:
+- Java (POO)
+- JavaScript
+- HTML & CSS
+
+📌 Projeto em destaque:
+- Agenda Web — https://juliorvb.github.io/Agenda/
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/julio-reis-293173308/
+
+📫 Contato:
+juliorvb4@gmail.com
 <!--
 🎓 Estudante de Ciência da Computação (Newton Paiva)
 💼 Buscando estágio em TI / Programação
