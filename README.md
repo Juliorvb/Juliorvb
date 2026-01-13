@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação (Newton Paiva)
 
-💼 Buscando estágio em TI / Programação
+💼 Buscando estágio em TI / Desenvolvimento de Software
 
 🛠️ Tecnologias:
 - Java
