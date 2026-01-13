@@ -5,7 +5,7 @@
 💼 Buscando estágio em TI / Programação
 
 🛠️ Tecnologias:
-- Java (POO)
+- Java
 - JavaScript
 - HTML & CSS
 
