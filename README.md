@@ -1,6 +1,7 @@
 ## Olá, eu sou o Júlio 👋
 
 🎓 Estudante de Ciência da Computação (Newton Paiva)
+
 💼 Buscando estágio em TI / Programação
 
 🛠️ Tecnologias:
