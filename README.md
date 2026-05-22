@@ -11,6 +11,7 @@
 
 📌 Projeto em destaque:
 - Agenda Web — https://juliorvb.github.io/Agenda/
+- Sistema de Gerenciamento de Faculdade - Java Programação Orientada a Objetos 
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/julio-reis-293173308/
